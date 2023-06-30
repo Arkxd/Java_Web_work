@@ -10,8 +10,8 @@ public class login_in {
         webDriver.get("http://jw.qit.edu.cn/jwglxt/xtgl/login_slogin.html");
         String title = webDriver.getTitle();
         System.out.println("title is => " + title);
-        webDriver.findElement(By.id("yhm")).sendKeys("202202215130");
-        webDriver.findElement(By.id("mm")).sendKeys("Xzp110019");
+        webDriver.findElement(By.id("yhm")).sendKeys("202202215108");
+        webDriver.findElement(By.id("mm")).sendKeys("Szb753731346");
         webDriver.findElement(By.id("dl")).click();
 
         try {
