@@ -1,0 +1,34 @@
+<component name="libraryTable">
+  <library name="annotations-api">
+    <CLASSES>
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/annotations-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/catalina-ant.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/catalina-ha.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/catalina-ssi.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/catalina-storeconfig.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/catalina-tribes.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/catalina.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/ecj-4.26.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/el-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/jakartaee-migration-1.0.6-shaded.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/jasper-el.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/jasper.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/jaspic-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/jsp-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/mysql-connector-java-8.0.15.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/servlet-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/tomcat-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/tomcat-coyote.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/tomcat-dbcp.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/tomcat-jdbc.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/tomcat-jni.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/tomcat-util-scan.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/tomcat-util.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/tomcat-websocket.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/websocket-api.jar!/" />
+      <root url="jar://D:/apache-tomcat-10.1.7/lib/websocket-client-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
